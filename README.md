@@ -7,8 +7,8 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, C++, Python, Java (Basics)  
-- **Web:** HTML, CSS, JavaScript, React.js, Node.js  
+- **Languages:** C, C++, Python, Java
+- **Web:** HTML, CSS, JavaScript, React.js, Node.js
 - **Databases:** SQL, NoSQL  
 - **Tools:** Git, GitHub, Vercel, VS Code  
 
@@ -23,12 +23,12 @@
 ### 📈 Competitive Programming
 - ⭐ **CodeChef:** 3★ (Max Rating: 1602)  
 - 🧩 **Codolio:** 1050+ problems solved | 270+ active days  
-- 🔥 Hackathons: Top 25, Top 12 & Top 18 finishes in Code Track Series  
+- 🔥 Hackathons: Top 25, Top 18 & Top 12 finishes in Code Track Series  
 
 ---
 
 ### 📜 Certificates
-- 🥇 NPTEL – C Programming (Elite, 69%)  
+- 🥇 NPTEL – C Programming (Elite, 69%)
 - 🐍 Foundation of Python – Infosys  
 - 🌐 Web Development (HTML & CSS) – Infosys  
 - ⌨️ Typewriting Senior (First Class)  
